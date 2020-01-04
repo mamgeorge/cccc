@@ -75,3 +75,5 @@ function fileParse( ) {
 	// Papa.parse(allText);
 	document.getElementById( 'planDates' ).innerHTML = txtHtml;
 }
+//----
+
